@@ -5,7 +5,7 @@
 //
 
 import UIKit
-
+ 
 protocol ToDoListDelegate: class {
     
     func update(task: ToDoItem, index: Int)
